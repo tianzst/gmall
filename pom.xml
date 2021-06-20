@@ -24,13 +24,13 @@
     <properties>
         <spring-cloud.version>Hoxton.SR2</spring-cloud.version>
         <spring-cloud-alibaba.version>2.1.0.RELEASE</spring-cloud-alibaba.version>
-        <mybatisplus.version>3.3.1.tmp</mybatisplus.version>
+        <mybatisplus.version>3.4.0</mybatisplus.version>
         <mysql.version>5.1.46</mysql.version>
         <swagger.version>2.9.2</swagger.version>
         <lombok.version>1.18.8</lombok.version>
         <jjwt.version>0.11.0</jjwt.version>
         <joda.version>2.10.5</joda.version>
-        <redisson.version>3.12.3</redisson.version>
+        <redisson.version>3.12.0</redisson.version>
         <lang3.version>3.9</lang3.version>
     </properties>
 
